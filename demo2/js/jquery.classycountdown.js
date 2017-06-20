@@ -20,10 +20,10 @@
             labels: true,
             labelsOptions: {
                 lang: {
-                    days: 'Gün',
-                    hours: 'Saat',
-                    minutes: 'Dakika',
-                    seconds: 'Saniye'
+                    days: 'Days',
+                    hours: 'Hours',
+                    minutes: 'Minutes',
+                    seconds: 'Seconds'
                 },
                 style: 'font-size: 0.5em;'
             },

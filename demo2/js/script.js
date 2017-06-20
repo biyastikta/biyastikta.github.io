@@ -180,10 +180,10 @@ $(window).on("load", function() {
     labels: true,
     labelsOptions: {
         lang: {
-            days: 'Days',
-            hours: 'Hours',
-            minutes: 'Minute',
-            seconds: 'Second'
+            days: 'Gün',
+            hours: 'Saat',
+            minutes: 'Dakika',
+            seconds: 'Saniye'
         },
         style: 'font-family: roboto; font-size:14px; text-transform:uppercase; font-weight:300;letter-spacing:1px'
     },
