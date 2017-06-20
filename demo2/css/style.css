@@ -2093,7 +2093,7 @@ form textarea{
     font-weight:600;
 }
 /*=============== Invitation Page ===================*/
-.bg1{background-image:url("http://placehold.it/1930x1620")}
+.bg1{background-image:url("../images/invitation-bg.jpg")}
 .loveria-invitation{
     margin:100px auto;
     text-align:center;
