@@ -27,7 +27,7 @@
 /*=============== Fonts ===================*/
 @import 'https://fonts.googleapis.com/css?family=Abril+Fatface|Pacifico|Montserrat:400,700|Roboto:400,400i,500,500i|Work+Sans:100,200,300,400,500,600,700,800,900&amp;subset=latin-ext';
 @font-face{
-    font-family:"ANGELLIFE_FREE", "Pacifico", cursive;
+    font-family:"ANGELLIFE_FREE";
     src:local("☺"), url("fonts/ANGELLIFE_FREE.otf");
     src:local("☺"), url("fonts/ANGELLIFE_FREE.ttf");
     font-weight:normal;
@@ -545,7 +545,7 @@ nav ul ul li:last-child:before{display:block}
 .date{
     color:#fff;
     display:inline-block;
-    font-family:ANGELLIFE_FREE;
+    font-family:ANGELLIFE_FREE, "Pacifico", cursive;
     font-size:36px;
     font-weight:500;
     line-height:60px;
