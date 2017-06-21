@@ -25,13 +25,22 @@
 =============================================================*/
 
 /*=============== Fonts ===================*/
-@import 'https://fonts.googleapis.com/css?family=Abril+Fatface|Pacifico|Montserrat:400,700|Roboto:400,400i,500,500i|Work+Sans:100,200,300,400,500,600,700,800,900&amp;subset=latin-ext';
+@import 'https://fonts.googleapis.com/css?family=Abril+Fatface|Montserrat:400,700|Roboto:400,400i,500,500i|Work+Sans:100,200,300,400,500,600,700,800,900&amp;subset=latin-ext';
 @font-face{
     font-family:"ANGELLIFE_FREE";
     src:local("☺"), url("fonts/ANGELLIFE_FREE.otf");
     src:local("☺"), url("fonts/ANGELLIFE_FREE.ttf");
     font-weight:normal;
     font-style:normal;
+}
+@font-face {
+    font-family: 'Brush Script MT';
+    src: url('fonts/BrushScriptMT.eot');
+    src: url('fonts/BrushScriptMT.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BrushScriptMT.woff') format('woff'),
+        url('fonts/BrushScriptMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
 }
 /*=============== General Styling ===================*/
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -545,7 +554,7 @@ nav ul ul li:last-child:before{display:block}
 .date{
     color:#fff;
     display:inline-block;
-    font-family:ANGELLIFE_FREE, "Pacifico", cursive;
+    font-family:ANGELLIFE_FREE, 'Brush Script MT';
     font-size:36px;
     font-weight:500;
     line-height:60px;
