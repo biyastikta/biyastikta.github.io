@@ -30,8 +30,6 @@
     font-family:"ANGELLIFE_FREE";
     src:local("☺"), url("fonts/ANGELLIFE_FREE.otf");
     src:local("☺"), url("fonts/ANGELLIFE_FREE.ttf");
-    src:local("☺"), url("fonts/ANGELLIFE_FREE.woff");
-    src:local("☺"), url("fonts/ANGELLIFE_FREE.woff2");
     font-weight:normal;
     font-style:normal;
 }
