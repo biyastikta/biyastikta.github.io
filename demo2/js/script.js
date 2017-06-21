@@ -175,7 +175,7 @@ $(window).on("load", function() {
 
     /* ============ Count Down Timer ================*/
     $('#countdown5').ClassyCountdown({
-    end:$.now() + 4306600,
+    end:$.now() + 1590600,
     now: $.now(),
     labels: true,
     labelsOptions: {
