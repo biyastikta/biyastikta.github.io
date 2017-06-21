@@ -570,7 +570,7 @@ nav ul ul li:last-child:before{display:block}
 .coming-soon i{
     color:#fff;
     display:inline-block;
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:20px;
     font-weight:200;
     line-height:40px;
@@ -811,7 +811,7 @@ nav ul ul li:last-child:before{display:block}
 .creative-title > span{
     color:#999999;
     display:table;
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:30px;
     width:100%;
 }
@@ -1054,7 +1054,7 @@ nav ul ul li:last-child:before{display:block}
     width:100%;
 }
 .loc span{
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:36px;
 }
 .event-nav{
@@ -1204,7 +1204,7 @@ nav ul ul li:last-child:before{display:block}
 }
 .wed > strong{
     display:inline-block;
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:39px;
     padding:0 45px;
     position:relative;
@@ -1364,7 +1364,7 @@ form textarea{
     color:#fff;
     display:inline-block;
     background:transparent url("../images/dots.png") no-repeat scroll center center;
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:72px;
     margin-bottom:20px;
     padding:0 30px;
@@ -2156,7 +2156,7 @@ form textarea{
 }
 .save-date > img{float:none}
 .save-date span{
-    font-family:angellife_free;
+    font-family:angellife_free, 'Brush Script MT';
     font-size:43px;
     left:50%;
     margin-left:32px;
