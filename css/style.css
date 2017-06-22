@@ -1566,6 +1566,11 @@ section * {
   color: #ffffff;
   font-weight: normal;
 }
+.footer-3 a i{
+  font-size: 24px;
+  padding: 5px 5px 0 0;
+  display: inline-block;
+}
 .footer-3 a:hover,
 .footer-3 a:focus,
 .footer-3 a.active {
