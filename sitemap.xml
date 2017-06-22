@@ -2,4 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url><loc>http://www.biyastikta.com/</loc><changefreq>always</changefreq><priority>1.00</priority></url>
 <url><loc>http://www.biyastikta.com/cinemagraph.html</loc><changefreq>always</changefreq><priority>0.80</priority></url>
+<url><loc>http://www.biyastikta.com/demo1/</loc><changefreq>always</changefreq><priority>0.80</priority></url>
+<url><loc>http://www.biyastikta.com/demo1/album.html</loc><changefreq>always</changefreq><priority>0.80</priority></url>
+<url><loc>http://www.biyastikta.com/demo2/</loc><changefreq>always</changefreq><priority>0.80</priority></url>
 </urlset>
