@@ -197,7 +197,7 @@ nav ul ul li:last-child:before{display:block}
 .event-nav span{color:#999999;cursor:pointer;float:left;font-family:work sans;font-size:24px;height:20px;letter-spacing:75px;margin-bottom:40px;text-align:center;width:300px;-webkit-transform:rotate(-90deg) translateY(-130px);-moz-transform:rotate(-90deg) translateY(-130px);-ms-transform:rotate(-90deg) translateY(-130px);-o-transform:rotate(-90deg) translateY(-130px);transform:rotate(-90deg) translateY(-130px);}
 .event-nav span.dg-next{float:right;-webkit-transform:rotate(-90deg) translateY(130px);-moz-transform:rotate(-90deg) translateY(130px);-ms-transform:rotate(-90deg) translateY(130px);-o-transform:rotate(-90deg) translateY(130px);transform:rotate(-90deg) translateY(130px);}
 .pink-title{float:left;font-family:abril fatface;font-size:120px;opacity:0.4;text-align:center;width:100%;}
-.loveria-memories{background:transparent url("http://placehold.it/1148x416") no-repeat scroll center 70px;float:left;width:100%;padding:0 110px;}
+.loveria-memories{background:transparent url("../images/memories-bg.jpg") no-repeat scroll center 70px;float:left;width:100%;padding:0 110px;}
 .memories-carousel{float:left;width:100%;position:relative;-webkit-box-shadow:0 0 33px rgba(71, 71, 71, 0.49);-moz-box-shadow:0 0 33px rgba(71, 71, 71, 0.49);-ms-box-shadow:0 0 33px rgba(71, 71, 71, 0.49);-o-box-shadow:0 0 33px rgba(71, 71, 71, 0.49);box-shadow:0 0 33px rgba(71, 71, 71, 0.49);}
 .slide{float:left;width:100%;}
 .slide > img{width:100%}
